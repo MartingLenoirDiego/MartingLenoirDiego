@@ -2,7 +2,7 @@
 👋 Hey, I’m Diego, 25 years old, a Python developer with a passion for data, AI, and everything automation.<br>💡 I love turning raw data into clear, useful insights, whether it’s through smart scripts, predictive models, or well-crafted dashboards.<br>🚀 Currently working on projects that mix machine learning, APIs, and data pipelines.<br>🌱 Always curious, constantly learning new technologies, and sharing what I discover along the way.<br>🎮 Outside of coding: gaming, strong coffee, and music exploration.<br><br>🧩 Favorite stack: Python • Pandas • FastAPI • Docker • PostgreSQL<br>
 
 ## 🚀 Featured Project:
-- **[Dashboard CSV Analysis](https://dashboard-django-csv-analysis.onrender.com/)** – Interactive Django app to upload CSVs, visualize stats and correlations, and explore data with a clean dashboard interface.
+- **[Dataforge](http://51.210.6.227:3000/)** – Interactive Django app to upload CSVs, visualize stats and correlations, and explore data with a clean dashboard interface.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-marting-lenoir-95179b244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmarting@hotmail.be) 
