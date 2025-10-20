@@ -2,7 +2,11 @@
 👋 Hey, I’m Diego, 25 years old, a Python developer with a passion for data, AI, and everything automation.<br>💡 I love turning raw data into clear, useful insights, whether it’s through smart scripts, predictive models, or well-crafted dashboards.<br>🚀 Currently working on projects that mix machine learning, APIs, and data pipelines.<br>🌱 Always curious, constantly learning new technologies, and sharing what I discover along the way.<br>🎮 Outside of coding: gaming, strong coffee, and music exploration.<br><br>🧩 Favorite stack: Python • Pandas • FastAPI • Docker • PostgreSQL<br>
 
 ## 🚀 Featured Project:
-- **[Dataforge](http://51.210.6.227:3000/)** – Interactive Django app to upload CSVs, visualize stats and correlations, and explore data with a clean dashboard interface.
+- **[Dataforge](http://51.210.6.227:3000/)** – Interactive Django and React app to upload CSVs, visualize stats and correlations, and explore data with a clean dashboard interface.
+- **[Pluxee for partners](https://www.pluxee.be/fr/partenaires/)** – An app for pluxee partners(During my job at i-logs).
+- Datalogic tracking for Facq – An app for Facq. We developed a mobile application in Kotlin with a Django backend. The objective was to track deliveries for a shipping company and to allow drivers to view and manage their routes.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-marting-lenoir-95179b244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmarting@hotmail.be) 
