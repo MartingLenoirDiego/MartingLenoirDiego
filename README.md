@@ -1,16 +1,29 @@
 # 💫 About Me:
-👋 Hey, I'm Diego, 25 years old, a Java and Python developer with a passion for data, AI, and everything automation.<br>💡 I love turning raw data into clear, useful insights, whether it's through smart scripts, predictive models, or well-crafted dashboards.<br>🚀 Currently working on projects that mix machine learning, APIs, and data pipelines.<br>🌱 Always curious, constantly learning new technologies, and sharing what I discover along the way.<br>🎮 Outside of coding: gaming, strong coffee, and music exploration.<br><br>🧩 Favorite stacks:<br>**Java:** Spring Boot • Hibernate • Maven • JUnit<br>**Python:** Pandas • FastAPI • Docker • PostgreSQL<br>
+👋 Hey, I'm Diego — a Backend Developer with 3 years of professional experience, specialising in Java Spring Boot and Python.<br>
+💡 I've worked on high-traffic B2B platforms (100k+ users), ETL data pipelines, and industrial embedded applications — and I love turning complex data into clean, actionable systems.<br>
+🚀 Currently building personal projects around space data, machine learning, and automation.<br>
+🌱 Always curious, constantly learning, and sharing what I discover along the way.<br>
+🎮 Outside of coding: gaming, strong coffee, and music exploration.<br>
+
+🧩 Favourite stacks:<br>
+**Java:** Spring Boot • Hibernate • JPA • Maven • JUnit<br>
+**Python:** FastAPI • Django • Pandas • SQLAlchemy • Docker<br>
 
 ## 🚀 Featured Projects:
-- **[Dataforge](http://51.210.6.227:3000/)** – Interactive Django and React app to upload CSVs, visualize stats and correlations, and explore data with a clean dashboard interface.
-- **[Pluxee for partners](https://www.pluxee.be/fr/partenaires/)** – An app for Pluxee partners (During my job at i-logs).
-- **Datalogic tracking for Facq** – An app for Facq. We developed a mobile application in Kotlin with a Django backend. The objective was to track deliveries for a shipping company and to allow drivers to view and manage their routes.
+
+- **[Space Dashboard](https://your-streamlit-link-here)** – Real-time interactive dashboard with live ISS tracking on a 3D globe, near-Earth asteroid data, and NASA's Astronomy Picture of the Day. Built with Python, Streamlit, Plotly and NASA APIs.
+- **[Space ETL Pipeline](https://github.com/MartingLenoirDiego)** – Automated daily ETL pipeline extracting data from multiple NASA APIs, cleaning with Pandas, validating with Pydantic and loading to PostgreSQL. Dockerised, scheduled via APScheduler with auto-generated Plotly reports.
+- **[Space Orbit Satellite Tracker](https://github.com/MartingLenoirDiego)** – Real-time 3D satellite tracker using TLE data from Celestrak, Kepler's laws for orbital calculations, and CesiumJS for visualisation. Built with Spring Boot + React.
+- **[Dataforge](http://51.210.6.227:3000/)** – Interactive Django + React app to upload CSVs, explore statistics, correlations and visualise data through a clean dashboard interface.
+- **[Banking API](https://github.com/MartingLenoirDiego)** – Secure REST API for bank account and transaction management. Layered architecture (Controller / Service / Repository) with Spring Data JPA and unit tests.
+- **[Pluxee for Partners](https://www.pluxee.be/fr/partenaires/)** – B2B platform serving 100,000+ users. Built and maintained Java Spring Boot microservices during my time at i-logs.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-marting-lenoir-95179b244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmarting@hotmail.be) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://diegomartinglenoir.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-marting-lenoir)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmarting@hotmail.be)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://diegomartinglenoir.be)
 
 # 💻 Tech Stack:
-
 ### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -24,7 +37,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Other Tools:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MartingLenoirDiego&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -39,5 +52,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MartingLenoirDiego&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
