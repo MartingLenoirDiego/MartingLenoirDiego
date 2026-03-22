@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hey, I'm Diego — a Backend Developer with 3 years of professional experience, specialising in Java Spring Boot and Python.<br>
-💡 I've worked on high-traffic B2B platforms (100k+ users), ETL data pipelines, and industrial embedded applications — and I love turning complex data into clean, actionable systems.<br>
+👋 Hey, I'm Diego, a Backend Developer with 3 years of professional experience, specialising in Java Spring Boot and Python.<br>
+💡 I've worked on high-traffic B2B platforms (100k+ users), ETL data pipelines, and industrial embedded applications, and I love turning complex data into clean, actionable systems.<br>
 🚀 Currently building personal projects around space data, machine learning, and automation.<br>
 🌱 Always curious, constantly learning, and sharing what I discover along the way.<br>
 🎮 Outside of coding: gaming, strong coffee, and music exploration.<br>
