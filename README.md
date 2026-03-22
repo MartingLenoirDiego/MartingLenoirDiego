@@ -11,11 +11,11 @@
 
 ## 🚀 Featured Projects:
 
-- **[Space Dashboard](https://your-streamlit-link-here)** – Real-time interactive dashboard with live ISS tracking on a 3D globe, near-Earth asteroid data, and NASA's Astronomy Picture of the Day. Built with Python, Streamlit, Plotly and NASA APIs.
-- **[Space ETL Pipeline](https://github.com/MartingLenoirDiego)** – Automated daily ETL pipeline extracting data from multiple NASA APIs, cleaning with Pandas, validating with Pydantic and loading to PostgreSQL. Dockerised, scheduled via APScheduler with auto-generated Plotly reports.
-- **[Space Orbit Satellite Tracker](https://github.com/MartingLenoirDiego)** – Real-time 3D satellite tracker using TLE data from Celestrak, Kepler's laws for orbital calculations, and CesiumJS for visualisation. Built with Spring Boot + React.
-- **[Dataforge](http://51.210.6.227:3000/)** – Interactive Django + React app to upload CSVs, explore statistics, correlations and visualise data through a clean dashboard interface.
-- **[Banking API](https://github.com/MartingLenoirDiego)** – Secure REST API for bank account and transaction management. Layered architecture (Controller / Service / Repository) with Spring Data JPA and unit tests.
+- **[Space Dashboard](https://space-dashboard.streamlit.app/)** – Real-time interactive dashboard with live ISS tracking on a 3D globe, near-Earth asteroid data, and NASA's Astronomy Picture of the Day. Built with Python, Streamlit, Plotly and NASA APIs.
+- **[Space ETL Pipeline](https://github.com/MartingLenoirDiego/space-etl)** – Automated daily ETL pipeline extracting data from multiple NASA APIs, cleaning with Pandas, validating with Pydantic and loading to PostgreSQL. Dockerised, scheduled via APScheduler with auto-generated Plotly reports.
+- **[Space Orbit Satellite Tracker](https://github.com/MartingLenoirDiego/space-orbit)** – Real-time 3D satellite tracker using TLE data from Celestrak, Kepler's laws for orbital calculations, and CesiumJS for visualisation. Built with Spring Boot + React.
+- **[Dataforge](https://github.com/MartingLenoirDiego/DataForge)** – Interactive Django + React app to upload CSVs, explore statistics, correlations and visualise data through a clean dashboard interface.
+- **[Banking API](https://github.com/MartingLenoirDiego/BankingApp)** – Secure REST API for bank account and transaction management. Layered architecture (Controller / Service / Repository) with Spring Data JPA and unit tests.
 - **[Pluxee for Partners](https://www.pluxee.be/fr/partenaires/)** – B2B platform serving 100,000+ users. Built and maintained Java Spring Boot microservices during my time at i-logs.
 
 ## 🌐 Socials:
